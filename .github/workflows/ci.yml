@@ -1,3 +1,7 @@
+name: tests
+on:
+  push:
+
 jobs:
   run:
     runs-on: ubuntu-latest
