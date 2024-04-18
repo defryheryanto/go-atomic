@@ -13,4 +13,4 @@ go get github.com/defryheryanto/go-atomic
 ```
 
 ## Examples
-See [Examples](https://github.com/defryheryanto/go-atomic/example) for detailed implementation
+See [Examples](https://github.com/defryheryanto/go-atomic/tree/main/example/ewallet) for detailed implementation
